@@ -74,7 +74,7 @@ PSOで検査する場合は，TSOでフェンス命令を挿入する位置に�
 |ques3.7_safety.pml|問題3.7のモデルの活性を検査するモデル．|
 
 
-#### textbookorigin
+#### textbook/origin
 
 |ファイル|内容|
 |:--|:--|
