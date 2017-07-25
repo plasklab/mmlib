@@ -1,6 +1,6 @@
 #define PROCSIZE 2
 #define VARSIZE 2
-#define BUFFSIZE 10
+#define BUFFSIZE 5
 #define s0 0
 #define t0 1
 #define x0 0
